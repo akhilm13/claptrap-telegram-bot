@@ -1,0 +1,6 @@
+bot = {
+        "key": "",
+	"admin" : "",
+        "admin_chat_id": 0,  
+        "store" : ""
+} 
